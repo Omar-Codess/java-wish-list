@@ -47,7 +47,6 @@ public class ChristmasLetter extends Main{
         }
 
         Random rdn = new Random();
-        boolean buonoCattivo = true;
         boolean buonoCativo = rdn.nextBoolean();
         if (!buonoCativo){
             throw new IllegalArgumentException("Sei un bambino cattivo!");
