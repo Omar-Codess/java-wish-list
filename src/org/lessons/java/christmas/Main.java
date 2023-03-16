@@ -26,7 +26,7 @@ public class Main {
         scan.close();
 
         ChristmasLetter letterina = new ChristmasLetter("Omar", "via roma 15", listaDesideri);
-
+        letterina.send();
 
     }
 }

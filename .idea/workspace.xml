@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7a816d8-af6c-4013-96ac-d5781f76f2ea" name="Changes" comment="aggiunto metodo send()">
+    <list default="true" id="b7a816d8-af6c-4013-96ac-d5781f76f2ea" name="Changes" comment="creata istanza di ChristmasLetter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/christmas/ChristmasLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/christmas/ChristmasLetter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/christmas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/christmas/Main.java" afterDir="false" />
@@ -69,13 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678981143897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="creata istanza di ChristmasLetter">
+      <created>1678982655367</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678982655367</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="stampata a schermo la lista dei desideri" />
     <MESSAGE value="creati costruttore e getter/setter di ChristmasLetter" />
     <MESSAGE value="aggiunto metodo send()" />
-    <option name="LAST_COMMIT_MESSAGE" value="aggiunto metodo send()" />
+    <MESSAGE value="creata istanza di ChristmasLetter" />
+    <option name="LAST_COMMIT_MESSAGE" value="creata istanza di ChristmasLetter" />
   </component>
 </project>

@@ -36,13 +36,10 @@ public class ChristmasLetter extends Main{
     }
 
     //METODO SEND()
-    public void send(){
+    public void send() throws IllegalArgumentException{
         if (listaDesideri.size() > 5){
-            try {
-                List<String> listaDesideri = new ArrayList<>();
-            } catch (IllegalArgumentException e){
-                System.out.println(e.getMessage());
-            }
+            throw new IllegalArgumentException("Hai inserito troppi desideri!");
+
         } else {
             System.out.println(nome);
             System.out.println(indirizzo);
@@ -53,11 +50,7 @@ public class ChristmasLetter extends Main{
         boolean buonoCattivo = true;
         boolean buonoCativo = rdn.nextBoolean();
         if (!buonoCativo){
-            try {
-                List<String> listaDesideri = new ArrayList<>();
-            } catch (IllegalArgumentException e){
-                System.out.println(e.getMessage());
-            }
+            throw new IllegalArgumentException("Sei un bambino cattivo!");
         }
     }
 }
