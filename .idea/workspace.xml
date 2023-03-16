@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7a816d8-af6c-4013-96ac-d5781f76f2ea" name="Changes" comment="">
+    <list default="true" id="b7a816d8-af6c-4013-96ac-d5781f76f2ea" name="Changes" comment="stampata a schermo la lista dei desideri">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/christmas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/christmas/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678972324292</updated>
     </task>
+    <task id="LOCAL-00001" summary="stampata a schermo la lista dei desideri">
+      <created>1678975547721</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678975547721</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stampata a schermo la lista dei desideri" />
+    <option name="LAST_COMMIT_MESSAGE" value="stampata a schermo la lista dei desideri" />
   </component>
 </project>
