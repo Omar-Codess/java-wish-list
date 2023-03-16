@@ -37,6 +37,12 @@ public class ChristmasLetter extends Main{
 
     //METODO SEND()
     public void send() throws IllegalArgumentException{
+        Random rdn = new Random();
+        boolean buonoCativo = rdn.nextBoolean();
+        if (!buonoCativo){
+            throw new IllegalArgumentException("Sei un bambino cattivo!");
+        }
+
         if (listaDesideri.size() > 5){
             throw new IllegalArgumentException("Hai inserito troppi desideri!");
 
@@ -46,10 +52,5 @@ public class ChristmasLetter extends Main{
             System.out.println(listaDesideri);
         }
 
-        Random rdn = new Random();
-        boolean buonoCativo = rdn.nextBoolean();
-        if (!buonoCativo){
-            throw new IllegalArgumentException("Sei un bambino cattivo!");
-        }
     }
 }

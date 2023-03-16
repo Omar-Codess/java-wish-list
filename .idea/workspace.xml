@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7a816d8-af6c-4013-96ac-d5781f76f2ea" name="Changes" comment="gestite eccezioni">
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/christmas/ChristmasLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/christmas/ChristmasLetter.java" afterDir="false" />
-    </list>
+    <list default="true" id="b7a816d8-af6c-4013-96ac-d5781f76f2ea" name="Changes" comment="sistemato funzione che da un booleano random" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678983731285</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sistemato funzione che da un booleano random">
+      <created>1678983932958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678983932958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -91,6 +96,7 @@
     <MESSAGE value="aggiunto metodo send()" />
     <MESSAGE value="creata istanza di ChristmasLetter" />
     <MESSAGE value="gestite eccezioni" />
-    <option name="LAST_COMMIT_MESSAGE" value="gestite eccezioni" />
+    <MESSAGE value="sistemato funzione che da un booleano random" />
+    <option name="LAST_COMMIT_MESSAGE" value="sistemato funzione che da un booleano random" />
   </component>
 </project>
