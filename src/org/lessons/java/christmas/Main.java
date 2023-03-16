@@ -24,5 +24,9 @@ public class Main {
         System.out.println(listaDesideri);
 
         scan.close();
+
+        ChristmasLetter letterina = new ChristmasLetter("Omar", "via roma 15", listaDesideri);
+
+
     }
 }

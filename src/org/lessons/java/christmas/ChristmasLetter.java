@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class ChristmasLetter {
+public class ChristmasLetter extends Main{
 
 
     String nome;
@@ -59,6 +59,5 @@ public class ChristmasLetter {
                 System.out.println(e.getMessage());
             }
         }
-
     }
 }
